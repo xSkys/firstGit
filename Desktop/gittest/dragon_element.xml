@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 被2013 sp1 () 使用XMLSpy v编辑的 (http://www.altova.com) by -->
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="dragon_element">
+		<ItemSpec id="60101000" lv="0" name="10039223"/>
+		<ItemSpec id="60101001" lv="0" name="10039223"/>
+		<ItemSpec id="60101002" lv="1" name="10039223"/>
+		<!--巨龙元素增益数据-->
+	</Group>
+</tns:database>
